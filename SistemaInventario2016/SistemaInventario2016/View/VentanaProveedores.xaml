@@ -1,0 +1,35 @@
+﻿<Controls:MetroWindow x:Class="VentanaProveedores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SistemaInventario2016"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="VentanaProveedores" Height="auto" Width="auto">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="0" SelectedItem="{Binding ElementoSeleccionado}" ItemsSource="{Binding ListaProveedores}">
+        </DataGrid>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Command="{Binding Instancia}" CommandParameter="Eliminar">
+                <DockPanel>
+                    <Image Source="/Imagenes/delete.png"></Image>
+                </DockPanel>
+            </Button>
+            <Button Command="{Binding Instancia}" CommandParameter="Agregar">
+                <DockPanel>
+                    <Image Source="/Imagenes/save.png"></Image>
+                </DockPanel>
+            </Button>
+            <Button Command="{Binding Instancia}" CommandParameter="Modificar">
+                <DockPanel>
+                    <Image Source="/Imagenes/edit.png"></Image>
+                </DockPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Controls:MetroWindow>

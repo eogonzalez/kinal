@@ -1,0 +1,39 @@
+﻿<Controls:MetroWindow x:Class="Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SistemaInventario2016"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="Menu" Height="auto" Width="auto" >
+    <Grid>
+        <Menu IsMainMenu="True" VerticalAlignment="Top">
+            <MenuItem Header="Catalogos">
+                <MenuItem Header="Compras" Command="{Binding Instancia}" CommandParameter="Compras" />
+                <MenuItem Header="F - Ventas" Command="{Binding Instancia}" CommandParameter="Facturas" />
+                <MenuItem Header="Inventarios" Command="{Binding Instancia}" CommandParameter="Inventarios" />
+                
+                <MenuItem Header="Productos" Command="{Binding Instancia}" CommandParameter="Productos" />
+                
+                <MenuItem Header="Clientes" Command="{Binding Instancia}" CommandParameter="Clientes" />
+                <MenuItem Header="Clientes - Telefonos" Command="{Binding Instancia}" CommandParameter="TelefonoClientes"/>
+                <MenuItem Header="Clientes - Correos" Command="{Binding Instancia}" CommandParameter="EmailClientes"/>
+                <MenuItem Header="Clientes - Direcciones" Command="{Binding Instancia}" CommandParameter="DireccionClientes"/>
+                
+                <MenuItem Header="Proveedores" Command="{Binding Instancia}" CommandParameter="Proveedores" />
+                <MenuItem Header="Proveedores - Telefonos" Command="{Binding Instancia}" CommandParameter="TelefonoProveedores"/>
+                <MenuItem Header="Proveedores - Correos" Command="{Binding Instancia}" CommandParameter="EmailProveedores"/>
+                <MenuItem Header="Proveedores - Direcciones" Command="{Binding Instancia}" CommandParameter="DireccionProveedores"/>
+                
+                <MenuItem Header="Tipo de Empaque" Command="{Binding Instancia}" CommandParameter="TipoEmpaque" />
+                <MenuItem Header="Categorias" Command="{Binding Instancia}" CommandParameter="Categorias" />
+                <MenuItem Header="Parametros" Command="{Binding Instancia}" CommandParameter="Parametros" />
+                <MenuItem Header="Tipo de Registros" Command="{Binding Instancia}" CommandParameter="Registros" />
+            </MenuItem>
+        </Menu>
+        <Image Source="/Imagenes/fondo.jpg" Height="auto" Width="auto" Stretch="Fill" Margin="0,30,0,0">
+            
+        </Image>
+    </Grid>
+</Controls:MetroWindow>

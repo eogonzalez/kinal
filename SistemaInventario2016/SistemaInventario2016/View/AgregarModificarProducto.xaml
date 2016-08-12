@@ -1,0 +1,70 @@
+﻿<Controls:MetroWindow x:Class="AgregarModificarProducto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SistemaInventario2016"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="AgregarModificarProducto" Height="auto" Width="auto">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Descripcion" Grid.Row="0" Grid.Column="0"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Descripcion}"/>
+        <Label Content="Categoria" Grid.Row="1" Grid.Column="0"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" ItemsSource="{Binding ListaCategorias}" SelectedItem="{Binding ElementoCategoria}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Descripcion}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label Content="Empaque" Grid.Row="2" Grid.Column="0"/>
+        <ComboBox Grid.Row="2" Grid.Column="1" ItemsSource="{Binding ListaTipoEmpaque}" SelectedItem="{Binding ElementoTipoEmpaque}">
+            <ComboBox.ItemTemplate>            
+            <DataTemplate>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Descripcion}"/>
+                </StackPanel>
+            </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label Content="Precio Unitario" Grid.Row="3" Grid.Column="0"/>
+        <TextBox Grid.Row="3" Grid.Column="1" IsReadOnly="{Binding DesactivarPrecioUnitario}" Text="{Binding PrecioUnitario}"/>
+        <Label Content="Precio Docena" Grid.Row="4" Grid.Column="0"/>
+        <TextBox Grid.Row="4" Grid.Column="1" IsReadOnly="{Binding DesactivarPrecioDocena}" Text="{Binding PrecioPorDocena}"/>
+        <Label Content="Precio Mayor" Grid.Row="5" Grid.Column="0"/>
+        <TextBox Grid.Row="5" Grid.Column="1" IsReadOnly="{Binding DesactivarPrecioPorMayor}" Text="{Binding PrecioPorMayor}"/>
+        <Label Content="Imagen" Grid.Row="6" Grid.Column="0"/>
+        <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding Imagen}"/>
+        <Button Content="..." Grid.Row="6" Grid.Column="2"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="8" Grid.ColumnSpan="3">
+            <Button Style="{DynamicResource SquareButtonStyle}" Command="{Binding Instancia}" CommandParameter="Guardar">
+                <DockPanel>
+                    <Image Source="/Imagenes/save.png"></Image>
+                </DockPanel>
+            </Button>
+            <Button Style="{DynamicResource SquareButtonStyle}" Command="{Binding Instancia}" CommandParameter="Cancelar">
+                <DockPanel>
+                    <Image Source="/Imagenes/cancel.png"></Image>
+                </DockPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Controls:MetroWindow>

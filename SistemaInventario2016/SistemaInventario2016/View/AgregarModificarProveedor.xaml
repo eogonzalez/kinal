@@ -1,0 +1,47 @@
+﻿<Controls:MetroWindow x:Class="AgregarModificarProveedor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SistemaInventario2016"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="AgregarModificarProveedor" Height="auto" Width="auto">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Content="Nit" Grid.Row="0" Grid.Column="0"></Label>
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Nit}"></TextBox>
+
+        <Label Content="Razón Social" Grid.Row="1" Grid.Column="0"></Label>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding RazonSocial}"></TextBox>
+
+        <Label Content="Página Web" Grid.Row="2" Grid.Column="0"></Label>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding PaginaWeb}"></TextBox>
+
+        <Label Content="Contacto Principal" Grid.Row="3" Grid.Column="0"></Label>
+        <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding ContactoPrincipal}"></TextBox>
+        <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Command="{Binding Instancia}" CommandParameter="Guardar" >
+                <DockPanel>
+                    <Image Source="/Imagenes/save.png"></Image>
+                </DockPanel>
+            </Button>
+            <Button  Command="{Binding Instancia}" CommandParameter="Cancelar"  >
+                <DockPanel>
+                    <Image Source="/Imagenes/cancel.png"></Image>
+                </DockPanel>
+            </Button>
+        </StackPanel>
+        
+    </Grid>
+</Controls:MetroWindow>

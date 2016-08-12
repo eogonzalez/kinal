@@ -1,0 +1,48 @@
+﻿<Controls:MetroWindow x:Class="AgregarModificarTelefonoCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SistemaInventario2016"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="AgregarModificarTelefonoCliente" Height="auto" Width="auto">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Cliente" Grid.Row="0" Grid.Column="0"/>
+        <ComboBox Grid.Row="0" Grid.Column="1" ItemsSource="{Binding ListaClientes}" SelectedItem="{Binding ElementoCliente}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox Text="{Binding Nombre}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label Content="Descripcion" Grid.Row="1" Grid.Column="0"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Descripcion}"/>
+        <Label Content="Numero de Telefono" Grid.Row="2" Grid.Column="0"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding NumeroTelefono}"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="8" Grid.ColumnSpan="3">
+            <Button Style="{DynamicResource SquareButtonStyle}" Command="{Binding Instancia}" CommandParameter="Guardar">
+                <DockPanel>
+                    <Image Source="/Imagenes/save.png"></Image>
+                </DockPanel>
+            </Button>
+            <Button Style="{DynamicResource SquareButtonStyle}" Command="{Binding Instancia}" CommandParameter="Cancelar">
+                <DockPanel>
+                    <Image Source="/Imagenes/cancel.png"></Image>
+                </DockPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="74129b68bc754dae98d8eea2103f8292" Name="Diagram1">
+        <EntityTypeShape EntityType="Inventario2016.Categorias" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.Clientes" Width="1.5" PointX="3.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.Compras" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.DetalleCompra" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.DetalleFactura" Width="1.5" PointX="8.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.DireccionClientes" Width="1.5" PointX="6" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.DireccionProveedor" Width="1.5" PointX="3" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.EmailClientes" Width="1.5" PointX="6" PointY="17.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.EmailProveedor" Width="1.5" PointX="3" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.Facturas" Width="1.5" PointX="6" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.Inventarios" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.Parametros" Width="1.5" PointX="7.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.Productos" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.Proveedores" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.sysdiagrams" Width="1.5" PointX="8.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.TelefonoClientes" Width="1.5" PointX="6" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.TelefonoProveedor" Width="1.5" PointX="3" PointY="21.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.TipoEmpaques" Width="1.5" PointX="0.75" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Inventario2016.TipoRegistros" Width="1.5" PointX="3" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="Inventario2016.FK_ProductosCategoria" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_DireccionCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_EmailCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_FacturaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_TelefonoCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_CompraProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_DetalleCompra_Compra" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_CompraProductos" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_DetalleFactura_Factura" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_FacturaProductos" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_DireccionProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_EmailProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_InventarioProductos" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_TipoRegistro_Inventario" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_ProductosTipoEmpaque" ManuallyRouted="false" />
+        <AssociationConnector Association="Inventario2016.FK_TelefonoProveedor" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
