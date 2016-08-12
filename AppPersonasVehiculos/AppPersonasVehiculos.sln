@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AppPersonasVehiculos", "AppPersonasVehiculos\AppPersonasVehiculos.vbproj", "{DA922EF6-C0AB-4E48-83F1-86D2A978FFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA922EF6-C0AB-4E48-83F1-86D2A978FFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA922EF6-C0AB-4E48-83F1-86D2A978FFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA922EF6-C0AB-4E48-83F1-86D2A978FFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA922EF6-C0AB-4E48-83F1-86D2A978FFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

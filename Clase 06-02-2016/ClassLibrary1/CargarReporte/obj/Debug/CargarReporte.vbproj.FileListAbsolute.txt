@@ -1,0 +1,34 @@
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.exe.config
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.exe
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.xml
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.vbprojResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.Form1.resources
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.Resources.resources
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.vbproj.GenerateResource.Cache
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.exe
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.xml
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.pdb
+C:\Users\jaquino\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.exe.config
+C:\Users\jaquino\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.exe
+C:\Users\jaquino\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.xml
+C:\Users\jaquino\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.pdb
+C:\Users\jaquino\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.exe.config
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.exe
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.exe
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\CargarReporte.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.Form1.resources
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.Resources.resources
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\ControlDeClases.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\MySql.Data.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\Laboratorio Eder Gonzalez.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\ControlDeClases.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\ControlDeClases.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\Laboratorio Eder Gonzalez.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\bin\Debug\Laboratorio Eder Gonzalez.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\CargarReporte\obj\Debug\CargarReporte.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,59 @@
+﻿<Page x:Class="PaginaPrincipal"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AppPersonasVehiculos"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="PaginaPrincipal">
+    <Grid Margin="10,6,10,14">
+        <Grid.Resources>
+            <DataTemplate x:Key="nombreItemTemplate">
+                <Label Content="{Binding XPath=@Nombre}"/>
+            </DataTemplate>
+            <XmlDataProvider x:Key="PropietariosSource" XPath="Propietarios">
+                <x:XData>
+                    <Propietarios xmlns="">
+                        <Propietario Nombre="Juan" Departamento="Guatemala">
+                            <Vehiculo Placa="P-654987" Anio="2012"></Vehiculo>
+                            <Vehiculo Placa="P-987654" Anio="2014"></Vehiculo>
+                        </Propietario>
+                        <Propietario Nombre="Luis" Departamento="Coban">
+                            <Vehiculo Placa="P-654987" Anio="2012"></Vehiculo>
+                            <Vehiculo Placa="P-987654" Anio="2014"></Vehiculo>
+                        </Propietario>
+                        <Propietario Nombre="Melisa" Departamento="Peten">
+                            <Vehiculo Placa="P-654987" Anio="2010"></Vehiculo>
+                            <Vehiculo Placa="P-987654" Anio="2011"></Vehiculo>
+                            <Vehiculo Placa="P-321654" Anio="2016"></Vehiculo>
+                        </Propietario>
+                        <Propietario Nombre="Raul" Departamento="Zacapa">
+                            <Vehiculo Placa="P-654987" Anio="2012"></Vehiculo>
+                        </Propietario>
+                    </Propietarios>
+                </x:XData>
+            </XmlDataProvider>
+        </Grid.Resources>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="230"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="watermark.png"/>
+        </Grid.Background>
+        <Label Grid.Column="1" Style="{StaticResource headerTextStyle}">Reporte propietarios</Label>
+        <Border Grid.Column="1" Grid.Row="1" Style="{StaticResource listHeaderStyle}">
+            <Label Style="{StaticResource listHeaderTextStyle}">Name</Label>
+        </Border>
+        <ListBox ItemsSource="{Binding Source={StaticResource PropietariosSource}, XPath=Propietario}"   ItemTemplate="{StaticResource nombreItemTemplate}" Name="propietariosListBox" Grid.Column="1" Grid.Row="2"></ListBox>
+        <Button Click="VentanaVehiculos" Grid.Column="1" Grid.Row="3" Style="{StaticResource buttonStyle}" >Vehiculos</Button>
+        
+    </Grid>
+</Page>

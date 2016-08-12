@@ -1,0 +1,55 @@
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.exe.config
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.exe
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.pdb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.xml
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioInicioSesion.g.vb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\VentanaPrincipal.g.vb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\Application.g.vb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica_MarkupCompile.cache
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica_MarkupCompile.lref
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioInicioSesion.baml
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\VentanaPrincipal.baml
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.g.resources
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.Resources.resources
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.vbproj.GenerateResource.Cache
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.exe
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.xml
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.pdb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.vbprojResolveAssemblyReference.cache
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioTelefonico.g.vb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioTelefonico.baml
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\ControlDeClases.dll
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\Laboratorio Eder Gonzalez.dll
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\MySql.Data.dll
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\ControlDeClases.pdb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\ControlDeClases.xml
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\Laboratorio Eder Gonzalez.pdb
+C:\Users\gonza\OneDrive\Documents\Visual Studio 2015\Projects\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\Laboratorio Eder Gonzalez.xml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.exe.config
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.exe
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.xml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.pdb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.exe
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.pdb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\InterfazWPFCentralTelefonica.xml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\ControlDeClases.dll
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\Laboratorio Eder Gonzalez.dll
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\MySql.Data.dll
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\ControlDeClases.pdb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\ControlDeClases.xml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\Laboratorio Eder Gonzalez.pdb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\bin\Debug\Laboratorio Eder Gonzalez.xml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioInicioSesion.g.vb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioTelefonico.g.vb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\VentanaPrincipal.g.vb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\Application.g.vb
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica_MarkupCompile.cache
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica_MarkupCompile.lref
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioInicioSesion.baml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\FormularioTelefonico.baml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\VentanaPrincipal.baml
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.g.resources
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.Resources.resources
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.vbproj.GenerateResource.Cache
+C:\Users\Informatica.FKINAL\Desktop\Kinal - Curso .Net - 2016\InterfazWPFCentralTelefonica\InterfazWPFCentralTelefonica\obj\Debug\InterfazWPFCentralTelefonica.FormularioAcercade.resources

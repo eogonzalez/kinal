@@ -1,0 +1,23 @@
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ControlDeClases.dll
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ControlDeClases.pdb
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ControlDeClases.xml
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.vbprojResolveAssemblyReference.cache
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.Resources.resources
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.vbproj.GenerateResource.Cache
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.dll
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.xml
+c:\users\informatica\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\bin\Debug\ControlDeClases.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\bin\Debug\ControlDeClases.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\bin\Debug\ControlDeClases.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.vbproj.ResolveComReference.cache
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.Resources.resources
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\obj\Debug\ControlDeClases.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\bin\Debug\Laboratorio Eder Gonzalez.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\bin\Debug\Laboratorio Eder Gonzalez.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\ClassLibrary1\ClassLibrary1\bin\Debug\Laboratorio Eder Gonzalez.xml

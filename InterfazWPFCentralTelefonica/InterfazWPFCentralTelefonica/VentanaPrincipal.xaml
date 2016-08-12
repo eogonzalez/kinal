@@ -1,0 +1,33 @@
+﻿<Window x:Name="VentanaPrincipal" x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterfazWPFCentralTelefonica"
+        mc:Ignorable="d"
+        Title="VentanaPrincipal
+        " Height="350" Width="525" WindowStartupLocation="CenterOwner" WindowState="Maximized">
+    <Window.Background>
+        <ImageBrush ImageSource="Recursos/fondo2.jpg"/>
+    </Window.Background>
+
+    
+    
+    <Menu x:Name="menuprincipal" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="515">
+        <MenuItem x:Name="menuusuario" Header="Usuario">
+            <MenuItem x:Name="menuItemIniciarSesion" Header="Iniciar Sesion"/>
+            <MenuItem x:Name="menuItemCerrar" Header="Cerrar"/>
+        </MenuItem>
+        <MenuItem x:Name="menutelefonias" Header="Telefonias" Visibility="Hidden">
+            <MenuItem x:Name="itemClaro" Header="Claro"/>
+            <MenuItem x:Name="itemTigo" Header="Tigo" />
+            <MenuItem x:Name="itemMovistar" Header="Movistar"/>
+            <MenuItem x:Name="itemGenerarReporte" Header="Generar Reporte" />
+            <MenuItem x:Name="itemCargarReporte" Header="Cargar Reporte" />
+        </MenuItem>
+        <MenuItem x:Name="menuacercade" Header="Acerca de" Visibility="Hidden">
+            <MenuItem Header="Autor"/>
+        </MenuItem>
+    </Menu>
+
+</Window>

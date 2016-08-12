@@ -1,0 +1,9 @@
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\bin\Debug\Laboratorio Eder Gonzalez.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\bin\Debug\Laboratorio Eder Gonzalez.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\bin\Debug\Laboratorio Eder Gonzalez.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\obj\Debug\Laboratorio_Eder_Gonzalez.Resources.resources
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\obj\Debug\Laboratorio Eder Gonzalez.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\obj\Debug\Laboratorio Eder Gonzalez.dll
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\obj\Debug\Laboratorio Eder Gonzalez.xml
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\obj\Debug\Laboratorio Eder Gonzalez.pdb
+C:\Users\Informatica\Desktop\Kinal - Curso .Net - 2016\Clase 06-02-2016\Laboratorio Eder Gonzalez\Laboratorio Eder Gonzalez\obj\Debug\Laboratorio Eder Gonzalez.vbprojResolveAssemblyReference.cache
